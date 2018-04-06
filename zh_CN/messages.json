@@ -1,0 +1,717 @@
+{
+  "Deck_name_cant_be_empty": {
+    "message": "卡组名称不能为空"
+  },
+  "Deck_with_given_name_already_exists": {
+    "message": "给定名称的卡组已经存在"
+  },
+  "Nothing_to_learn": {
+    "message": "没有可学的内容"
+  },
+  "OK": {
+    "message": "确定"
+  },
+  "add_new_translation": {
+    "message": "添加新的翻译"
+  },
+  "additional": {
+    "message": "附加"
+  },
+  "adjective": {
+    "message": "形容词"
+  },
+  "adverb": {
+    "message": "副词"
+  },
+  "ago": {
+    "message": "之前"
+  },
+  "all": {
+    "message": "所有"
+  },
+  "alphabetically": {
+    "message": "按字母顺序"
+  },
+  "ankiFix_message": {
+    "message": "重复使用！导出为Anki-CSV，并从Anki导入"
+  },
+  "ankiFix_title": {
+    "message": "导出到Anki"
+  },
+  "answer": {
+    "message": "答案"
+  },
+  "antonym": {
+    "message": "反义词"
+  },
+  "article": {
+    "message": "文章"
+  },
+  "auxiliary_verb": {
+    "message": "助动词"
+  },
+  "back": {
+    "message": "后退"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "card_edit": {
+    "message": "卡片编辑"
+  },
+  "cardsRipeningExplanation": {
+    "message": "一旦你熟悉你的卡片，它们将暂时不可用。过了一段时间，你会被要求复习它们以掌握知识。"
+  },
+  "cardsWaiting": {
+    "message": "$1 卡片正在等着你！"
+  },
+  "cards_per_session": {
+    "message": "每个卡片会话"
+  },
+  "cards_sorting": {
+    "message": "卡片排序"
+  },
+  "checkBrowserVersion": {
+    "message": "检查浏览器版本"
+  },
+  "check_all": {
+    "message": "全选"
+  },
+  "classic": {
+    "message": "经典"
+  },
+  "click": {
+    "message": "点击"
+  },
+  "collapse": {
+    "message": "折叠"
+  },
+  "configureSync": {
+    "message": "配置同步"
+  },
+  "conjunction": {
+    "message": "连词"
+  },
+  "correct": {
+    "message": "确定"
+  },
+  "correct_answer": {
+    "message": "正确答案"
+  },
+  "custom": {
+    "message": "自定义"
+  },
+  "cut": {
+    "message": "剪切"
+  },
+  "cutNPasteRelease": {
+    "message": "从现在开始，你可以在卡座之间移动你的卡片。"
+  },
+  "cutNPasteTip": {
+    "message": "现在选择要放置这些卡的卡组，然后单击粘贴按钮。"
+  },
+  "days": {
+    "message": "天"
+  },
+  "dblclick": {
+    "message": "双击"
+  },
+  "deck": {
+    "message": "卡组"
+  },
+  "deckMenuActions_activate": {
+    "message": "设为默认"
+  },
+  "deckMenuActions_activate_tip": {
+    "message": "保存新卡片到这个卡组"
+  },
+  "deckMenuActions_activated": {
+    "message": "默认"
+  },
+  "deckMenuActions_activated_tip": {
+    "message": "新卡片将被保存到该卡组"
+  },
+  "deckMenuActions_backup": {
+    "message": "备份"
+  },
+  "deckMenuActions_backup_create": {
+    "message": "创建"
+  },
+  "deckMenuActions_backup_create_tip": {
+    "message": "保存你所有的套牌和学习进度"
+  },
+  "deckMenuActions_backup_restore": {
+    "message": "恢复"
+  },
+  "deckMenuActions_create": {
+    "message": "创建卡组"
+  },
+  "deckMenuActions_export": {
+    "message": "退出"
+  },
+  "deckMenuActions_exportAs": {
+    "message": "另存为..."
+  },
+  "deckMenuActions_export_anki": {
+    "message": "与Anki兼容"
+  },
+  "deckMenuActions_export_disabled_tip": {
+    "message": "卡组是空的"
+  },
+  "deckMenuActions_import": {
+    "message": "导入"
+  },
+  "deckMenuActions_import_tip": {
+    "message": "JSON，CSV"
+  },
+  "deckMenuActions_remove": {
+    "message": "删除卡组"
+  },
+  "deckMenuActions_remove_last_tip": {
+    "message": "无法删除最后一个卡组"
+  },
+  "deckMenuActions_remove_target_tip": {
+    "message": "无法移除目标卡组"
+  },
+  "deckMenuActions_title": {
+    "message": "操作"
+  },
+  "deck_description": {
+    "message": "卡组说明"
+  },
+  "decks": {
+    "message": "卡组"
+  },
+  "definition": {
+    "message": "这是定义"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "detect": {
+    "message": "检测"
+  },
+  "detectedAs": {
+    "message": "从 $1 转换"
+  },
+  "disableReminders": {
+    "message": "禁用提醒"
+  },
+  "dontNotifyOnUpdates": {
+    "message": "不要再通知我更新"
+  },
+  "easy": {
+    "message": "简单"
+  },
+  "edit": {
+    "message": "编辑"
+  },
+  "enable": {
+    "message": "启用"
+  },
+  "ensureSyncIsOn1st": {
+    "message": "确保您的扩展程序同步已启用"
+  },
+  "ensureSyncIsOn2nd": {
+    "message": "Chrome设置"
+  },
+  "error": {
+    "message": "错误"
+  },
+  "example": {
+    "message": "例子"
+  },
+  "expand": {
+    "message": "扩大"
+  },
+  "export": {
+    "message": "导出"
+  },
+  "ext_author": {
+    "message": "Serhii skye Muryhin, Myroslava Yurchyshyn"
+  },
+  "ext_description": {
+    "message": "在浏览网页时翻译单词和短语，并使用抽认卡轻松补充您的外语词典。"
+  },
+  "ext_name": {
+    "message": "Rememberry - 翻译和记住"
+  },
+  "ext_short_name": {
+    "message": "Rememberry"
+  },
+  "failedToReadFile": {
+    "message": "无法读取文件内容"
+  },
+  "fileTypeIsNotAllowed": {
+    "message": "所选文件不是JSON或CSV类型"
+  },
+  "filter": {
+    "message": "过滤器"
+  },
+  "forward": {
+    "message": "前进"
+  },
+  "goToOptionsPage": {
+    "message": "转到设置页面"
+  },
+  "hard": {
+    "message": "困难"
+  },
+  "hotkey": {
+    "message": "快捷键"
+  },
+  "hours": {
+    "message": "小时"
+  },
+  "improvedTranslationRelease": {
+    "message": "我们正在不断地改进，现在通过弹出式菜单翻译英文单词后，您会看到它的同义词，反义词，示例和定义。"
+  },
+  "in": {
+    "message": "在"
+  },
+  "incorrect": {
+    "message": "不正确"
+  },
+  "incorrectFileContent": {
+    "message": "文件内容不正确"
+  },
+  "info": {
+    "message": "信息"
+  },
+  "initialTab": {
+    "message": "初始选项卡"
+  },
+  "interjection": {
+    "message": "感叹词 "
+  },
+  "just_now": {
+    "message": "不久前"
+  },
+  "key_modifier": {
+    "message": "功能键"
+  },
+  "languages": {
+    "message": "语言"
+  },
+  "learn": {
+    "message": "学习"
+  },
+  "learned": {
+    "message": "已学习"
+  },
+  "learningInSwitchTo": {
+    "message": "学习"
+  },
+  "learning_mode": {
+    "message": "学习模式"
+  },
+  "listening": {
+    "message": "听力"
+  },
+  "loading": {
+    "message": "加载"
+  },
+  "loadingSemantization": {
+    "message": "加载语义"
+  },
+  "localFilesTip": {
+    "message": "如果您希望在本地页面内进行翻译，则需要在扩展管理器中的“Rememberry ”下启用“允许访问文件URL”复选框。"
+  },
+  "log_in": {
+    "message": "登录"
+  },
+  "log_out": {
+    "message": "登出"
+  },
+  "login": {
+    "message": "登录"
+  },
+  "maxCardTextLengthExceeded": {
+    "message": "原文不超过 $1 个符号的卡片无法保存。"
+  },
+  "menuDecks": {
+    "message": "甲板"
+  },
+  "menuLanguages": {
+    "message": "语言"
+  },
+  "menuOther": {
+    "message": "其它"
+  },
+  "menuShare": {
+    "message": "分享"
+  },
+  "menuSubscription": {
+    "message": "订阅"
+  },
+  "menuTriggers": {
+    "message": "触发器"
+  },
+  "minutes": {
+    "message": "分钟"
+  },
+  "model": {
+    "message": "模型"
+  },
+  "modifiers": {
+    "message": "修饰符"
+  },
+  "months": {
+    "message": "月"
+  },
+  "more_than_a_month": {
+    "message": "超过一个月"
+  },
+  "more_than_year_ago": {
+    "message": "一年前"
+  },
+  "most_repeated": {
+    "message": "按重复次数"
+  },
+  "most_useful": {
+    "message": "按有效性"
+  },
+  "mutualLanguagesSetting": {
+    "message": "在弹出式窗口和网页翻译中使用相同的语言"
+  },
+  "newFeatureReleased": {
+    "message": "更新新功能"
+  },
+  "new_first": {
+    "message": "按添加顺序"
+  },
+  "noAvailableCards": {
+    "message": "在选定的卡组中没有可用的卡片"
+  },
+  "none": {
+    "message": "无"
+  },
+  "normal": {
+    "message": "正常"
+  },
+  "notifyOnUpdates": {
+    "message": "重要的更新通知我"
+  },
+  "noun": {
+    "message": "名词"
+  },
+  "number_of_available_cards": {
+    "message": "可用卡片的数量"
+  },
+  "number_of_available_cards_in_active_deck": {
+    "message": "当前卡组中可用卡片的数量"
+  },
+  "of": {
+    "message": "共"
+  },
+  "off": {
+    "message": "关"
+  },
+  "offlineMessage": {
+    "message": "您处于离线状态"
+  },
+  "on": {
+    "message": "开"
+  },
+  "openDecksMenu": {
+    "message": "管理卡组"
+  },
+  "openExtensionsManager": {
+    "message": "打开扩展管理器"
+  },
+  "openTranslatorSite": {
+    "message": "通过网站翻译"
+  },
+  "original_term": {
+    "message": "原文"
+  },
+  "other": {
+    "message": "其他"
+  },
+  "particle": {
+    "message": "助词"
+  },
+  "password": {
+    "message": "密码"
+  },
+  "paste": {
+    "message": "粘贴"
+  },
+  "per_month": {
+    "message": "每月"
+  },
+  "plan": {
+    "message": "计划"
+  },
+  "popup": {
+    "message": "弹出式窗口"
+  },
+  "popup_type": {
+    "message": "弹窗默认模式"
+  },
+  "preposition": {
+    "message": "起始位置"
+  },
+  "preserve_credentials": {
+    "message": "保留凭据"
+  },
+  "pronoun": {
+    "message": "代词"
+  },
+  "pronunciation_loading_error": {
+    "message": "尝试加载发音时发生错误"
+  },
+  "rateIn": {
+    "message": "打开"
+  },
+  "recentlyUsed": {
+    "message": "最近"
+  },
+  "reminder": {
+    "message": "提醒"
+  },
+  "reminders": {
+    "message": "提醒"
+  },
+  "repeated": {
+    "message": "重复"
+  },
+  "return": {
+    "message": "返回"
+  },
+  "reverse": {
+    "message": "反向"
+  },
+  "ripened_cards": {
+    "message": "可用的卡片"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "saveCardToDeck": {
+    "message": "卡片另存为"
+  },
+  "seconds": {
+    "message": "秒"
+  },
+  "sentence": {
+    "message": "句子"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "settingsSyncReleaseMessage": {
+    "message": "我们很高兴地宣布，现在您可以在所有Chrome浏览器中同步 Rememberry 设置。"
+  },
+  "shareForeword": {
+    "message": "请推荐 Rememberry。帮助你的朋友有效地​​学习外语！"
+  },
+  "shareWithFriends": {
+    "message": "与朋友分享 Rememberry"
+  },
+  "showInsideBadge": {
+    "message": "在徽章内显示"
+  },
+  "show_answer": {
+    "message": "显示答案"
+  },
+  "signInToSync1st": {
+    "message": "登录Chrome"
+  },
+  "signInToSync2nd": {
+    "message": "以便使用同步"
+  },
+  "sort_by": {
+    "message": "排序方式"
+  },
+  "sort_direction": {
+    "message": "排序方向"
+  },
+  "source_language": {
+    "message": "源语言"
+  },
+  "start": {
+    "message": "开始"
+  },
+  "subAfterPlan": {
+    "message": "模式，让您可以完全访问所有基本功能和额外功能。"
+  },
+  "subBasic": {
+    "message": "免费"
+  },
+  "subBeforePlan": {
+    "message": "您正在使用"
+  },
+  "subCustomText": {
+    "message": "翻译自定义文本"
+  },
+  "subExportTo": {
+    "message": "导出到："
+  },
+  "subLearningModes": {
+    "message": "学习模式"
+  },
+  "subLearningSessions": {
+    "message": "学习课程"
+  },
+  "subNewCards": {
+    "message": "新卡片"
+  },
+  "subReminders": {
+    "message": "提醒"
+  },
+  "subSemantizations": {
+    "message": "语义化方法"
+  },
+  "subSubscriber": {
+    "message": "订购"
+  },
+  "subTranslateSynNAnt": {
+    "message": "翻译同义词和反义词"
+  },
+  "subTranslations": {
+    "message": "其它语言版本"
+  },
+  "subTrial": {
+    "message": "试用"
+  },
+  "switchLanguages": {
+    "message": "切换语言"
+  },
+  "switchPopupType": {
+    "message": "弹窗切换到 $1 模式"
+  },
+  "syncDecksLabel": {
+    "message": "同步卡组"
+  },
+  "syncDecksNotAvailable": {
+    "message": "暂时不可使用。我们会通知您！"
+  },
+  "syncSectionTitle": {
+    "message": "同步"
+  },
+  "syncSettings": {
+    "message": "同步扩展设置"
+  },
+  "syncSettingsDescription": {
+    "message": "在所有使用当前配置文件登录的Chrome浏览器中 Rememberry 设置"
+  },
+  "synonym": {
+    "message": "代名词"
+  },
+  "target_language": {
+    "message": "目标语言"
+  },
+  "termsPerPartOfSpeech": {
+    "message": "每个词汇的翻译"
+  },
+  "text_to_translate": {
+    "message": "文字翻译"
+  },
+  "thanksForBeingWithUs": {
+    "message": "谢谢你和我们在一起"
+  },
+  "time_left": {
+    "message": "剩余时间"
+  },
+  "tooLongOriginalsAreSkipped": {
+    "message": "发音只能用于文字，只要 $1 符号。有些卡片被过滤。"
+  },
+  "tooLongTTT": {
+    "message": "请使用翻译网站翻译长文本"
+  },
+  "total_cards": {
+    "message": "全部卡片"
+  },
+  "transcription_loading_error": {
+    "message": "尝试加载录音时发生错误"
+  },
+  "translate": {
+    "message": "翻译"
+  },
+  "translateRequestError": {
+    "message": "翻译请求错误"
+  },
+  "translateWith": {
+    "message": "翻译自 $1"
+  },
+  "translation": {
+    "message": "翻译"
+  },
+  "translationIconBesideSelection": {
+    "message": "在鼠标选择旁边显示翻译图标"
+  },
+  "translationInSwitchTo": {
+    "message": "翻译"
+  },
+  "translations": {
+    "message": "其它语言版本"
+  },
+  "trigger_action": {
+    "message": "触发行为"
+  },
+  "triggers": {
+    "message": "触发器"
+  },
+  "try_again": {
+    "message": "重试"
+  },
+  "typing": {
+    "message": "拼写"
+  },
+  "undo": {
+    "message": "还原"
+  },
+  "unlimited": {
+    "message": "无限"
+  },
+  "updateChromeToLatest": {
+    "message": "您使用的浏览器太旧了。请升级到您的浏览器的最新版本，以使用我们的扩展的所有功能。"
+  },
+  "verb": {
+    "message": "动词"
+  },
+  "warning": {
+    "message": "注意"
+  },
+  "weAreSorry": {
+    "message": "对不起"
+  },
+  "webpage": {
+    "message": "网页"
+  },
+  "welcomeAction": {
+    "message": "持有 $modifier$ key 和 $action$",
+    "placeholders": {
+      "action": {
+        "content": "$2"
+      },
+      "modifier": {
+        "content": "$1"
+      }
+    }
+  },
+  "welcomeActionWithoutModifier": {
+    "message": "标记 $action$",
+    "placeholders": {
+      "action": {
+        "content": "$1"
+      }
+    }
+  },
+  "welcomeConfigure": {
+    "message": "配置语言，触发操作等等"
+  },
+  "welcomeHowToLink": {
+    "message": "观看简要的操作方法"
+  },
+  "welcomeMessage": {
+    "message": "现在您可以翻译任何文本并将其保存以供学习。\n$1 在网页中的未知单词上查看翻译。"
+  },
+  "welcomeTitle": {
+    "message": "欢迎！"
+  },
+  "your_answer": {
+    "message": "你的答案"
+  }
+}
